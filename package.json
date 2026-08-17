@@ -82,5 +82,8 @@
       "eslint --fix --cache --cache-location=node_modules/.cache/.eslintcache",
       "prettier --write"
     ]
+  },
+  "allowScripts": {
+    "unrs-resolver@1.11.1": true
   }
 }
